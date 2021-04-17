@@ -1,6 +1,6 @@
 # signinproject
 
-A new Flutter application.
+A new Flutter application using firebse .
 
 ## Getting Started
 
